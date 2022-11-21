@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "img" : "../Images/Products/Apple_homepod-mini-white.png",
+        "name" : "Apple Ipod",
+        "price" : "$998",
+        "deprecatedPrice" : "$499",
+        "quantity" : "2"
+    },
+    {
+        "id" : 2,
+        "img" : "../Images/Products/415ELavtbuL._SL1000_.png",
+        "name" : "Apple Ipod",
+        "price" : "$998",
+        "deprecatedPrice" : "$499",
+        "quantity" : "2"
+    },
+    {
+        "id" : 3,
+        "img" : "../Images/Products/airpods-max-hero-select-202011_FMT_WHH.png",
+        "name" : "Apple Magin Trackpad 2",
+        "price" : "$1198",
+        "deprecatedPrice" : "$599",
+        "quantity" : "2"
+    }
+]
